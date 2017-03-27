@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape2.xml",
+        "source": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_color.xml",
+        "source": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape16.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape16.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape24.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape5.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape10.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape25.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape25.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape11.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape4.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape17.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape17.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover.xml",
+        "source": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape23.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape23.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape9.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape3.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape20.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape20.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_color.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape15.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape15.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape26.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape26.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape18.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape18.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape12.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape12.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape6.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape19.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape19.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape13.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape13.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\7cee6fa5449144e01162dbea66ecfeccfe59eb0f\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\7cee6fa5449144e01162dbea66ecfeccfe59eb0f\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape21.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape21.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape2.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape7.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape8.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape14.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape14.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape22.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\shape22.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\07967afde553cc8ebbff27eda76f4258e624a492\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\07967afde553cc8ebbff27eda76f4258e624a492\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ebad\\Downloads\\Sample\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ebad\\.android\\build-cache\\0ed9c84a061f9176e40f4a93a35dec8b586b18ad\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Fazila\\.android\\build-cache\\0d64260ba83bdf0c82081891f50c4806c6444adf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover.xml",
+        "source": "C:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\src\\main\\res\\drawable\\hover.xml"
+    }
+]

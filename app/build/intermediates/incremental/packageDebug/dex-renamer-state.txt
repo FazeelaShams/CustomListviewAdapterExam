@@ -1,0 +1,7 @@
+#Mon Mar 27 14:14:48 PKT 2017
+base.0=C\:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fba18cea49ba21b3574905c8d9b8f749557fe05e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2a5e3bb0d3cf39b7202c669773542aefdb2c57d5\\classes.dex
+base.1=C\:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2a5e3bb0d3cf39b7202c669773542aefdb2c57d5
+file.0=C\:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fba18cea49ba21b3574905c8d9b8f749557fe05e\\classes.dex

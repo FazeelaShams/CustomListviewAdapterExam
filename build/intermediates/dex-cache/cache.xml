@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7364f02d5bc9402c7531ad80206a3a8f31e1dd0a">
+        <dex dex="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fba18cea49ba21b3574905c8d9b8f749557fe05e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fazila\.android\build-cache\7cee6fa5449144e01162dbea66ecfeccfe59eb0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\pre-dexed\debug\classes_863607635294ac32321ae150f922f9e6049f3fbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fazila\.android\build-cache\6427d082c86eb48f6d0d90b7691c97f36178bb45\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_430535ecbe974ab0e0b6bf502330a75c37fa4a52.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2a5e3bb0d3cf39b7202c669773542aefdb2c57d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fazila\.android\build-cache\6427d082c86eb48f6d0d90b7691c97f36178bb45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\pre-dexed\debug\classes_25f259dcdc48cffda4eef422e33a4ee289ee7277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fazila\.android\build-cache\0d64260ba83bdf0c82081891f50c4806c6444adf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\pre-dexed\debug\classes_161fe47b0c854fff177185cddbdda33e233f602b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fazila\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Fazila\Desktop\CustomListviewAdapterExam\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_4cca30aa8003a16e5e1c0fcdbad5ee1d4c1b14ef.jar" />
+    </item>
+
+</items>

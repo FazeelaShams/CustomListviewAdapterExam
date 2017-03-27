@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_details">details</string>
+
+    <string-array name="Name">
+        <item>Abdul Hadi</item>
+        <item>Arsalan Ahmed</item>
+
+        <item>Bilal Ahmed</item>
+        <item>Bushra Hameed</item>
+
+        <item>Catherina David</item>
+        <item>Charles Cora</item>
+
+        <item>Dania Farhan</item>
+        <item>Daman Umair</item>
+
+        <item>Eman Abid</item>
+        <item>Ejaz Ali</item>
+
+        <item>Fazeela Shams</item>
+        <item>Faiza Saleem</item>
+
+        <item>Ghazala Shoaib</item>
+        <item>Ghayoor Ahmed</item>
+
+        <item>Hina Faisal</item>
+        <item>Huma Fayyaz</item>
+
+        <item>Irum Abid</item>
+        <item>Iftikhar Ahmed</item>
+
+        <item>Javeria Khan</item>
+        <item>Javaid Iqbal</item>
+
+        <item>Kibriyah Iftikhar</item>
+        <item>Komal Fatima</item>
+
+        <item>Laiba Mughal</item>
+        <item>Luqman Fayyaz</item>
+
+        <item>Mariyam Shams</item>
+        <item>Maira Imtiaz</item>
+
+        <item>Natasha Farhan</item>
+        <item>Noor Zahra</item>
+
+        <item>Omer Junaid</item>
+        <item>Ommama Khalid</item>
+
+        <item>Pervaiz Khan</item>
+        <item>Perveen Fatiam</item>
+
+        <item>Qaiser Javaid</item>
+        <item>Qamar Abbas</item>
+
+        <item>Rabbiyah Shams</item>
+        <item>Rizwan Rafiq</item>
+
+        <item>Sana Hameed</item>
+        <item>Saira Farooq</item>
+
+        <item>Tanveer Hussain</item>
+        <item>Tufail Ahmed</item>
+
+        <item>Ushna Mughail</item>
+        <item>Umair Gul</item>
+
+        <item>Volica Mansha</item>
+        <item>Victoria Edward</item>
+
+        <item>Wajahat Iftikhar</item>
+        <item>Wajeeha Sharaf</item>
+
+        <item>Xeno Xander</item>
+        <item>Xavier Berkley</item>
+
+        <item>Younas Khan</item>
+        <item>Yousaf Gul</item>
+
+        <item>Zeeshan Farooq</item>
+        <item>Zara Ibrar</item>
+    </string-array>
+
+    <string-array name="Phone">
+        <item>+923355012223</item>
+        <item>+923355022223</item>
+        <item>+923355032223</item>
+        <item>+923355042223</item>
+        <item>+923355052223</item>
+        <item>+923355062223</item>
+        <item>+923355072223</item>
+        <item>+923355082223</item>
+        <item>+923355092223</item>
+        <item>+923355102223</item>
+        <item>+923355112223</item>
+        <item>+923355122223</item>
+        <item>+923355132223</item>
+        <item>+923355142223</item>
+        <item>+923355152223</item>
+        <item>+923355162223</item>
+        <item>+923355172223</item>
+        <item>+923355182223</item>
+        <item>+923355192223</item>
+        <item>+923355202223</item>
+        <item>+923355212223</item>
+        <item>+923355222223</item>
+        <item>+923355232223</item>
+        <item>+923355242223</item>
+        <item>+923355252223</item>
+        <item>+923355262223</item>
+        <item>+923355272223</item>
+        <item>+923355282223</item>
+        <item>+923355292223</item>
+        <item>+923355302223</item>
+        <item>+923355312223</item>
+        <item>+923355322223</item>
+        <item>+923355332223</item>
+        <item>+923355342223</item>
+        <item>+923355352223</item>
+        <item>+923355362223</item>
+        <item>+923355372223</item>
+        <item>+923355382223</item>
+        <item>+923355392223</item>
+        <item>+923355402223</item>
+        <item>+923355412223</item>
+        <item>+923355422223</item>
+        <item>+923355432223</item>
+        <item>+923355442223</item>
+        <item>+923355452223</item>
+        <item>+923355462223</item>
+        <item>+923355472223</item>
+        <item>+923355482223</item>
+        <item>+923355492223</item>
+        <item>+923355502223</item>
+        <item>+923355512223</item>
+        <item>+923355522223</item>
+        <item>+923355522223</item>
+    </string-array>
+
+</resources>

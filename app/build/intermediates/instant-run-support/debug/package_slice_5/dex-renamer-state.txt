@@ -1,0 +1,4 @@
+#Sun Mar 26 19:36:27 PKT 2017
+base.0=C\:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\Fazila\\Desktop\\CustomListviewAdapterExam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
